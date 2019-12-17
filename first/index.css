@@ -1,0 +1,35 @@
+header {
+   background-color: aqua;
+   width: auto;
+   height: 100px;
+
+
+}
+
+section{
+
+   background-color: aquamarine;
+   width: auto;
+   height: 100px;
+   
+   
+
+
+
+}
+
+.left-column{ 
+   background-color: darkgreen;
+}
+
+.mid-column{ 
+   background-color: brown;
+   
+}
+
+.right-column{
+   background-color: palevioletred;
+   
+
+}
+
