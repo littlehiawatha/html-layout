@@ -34,5 +34,42 @@ body {
       display: inline-block;
    }
 
-   
+   .container-2 {
+      width: 100%;
+      border: 5px dotted black;
+      padding: 50px;
+      box-sizing: border-box;
+      margin-top: 25px;
+   }
+
+   .shadowbox {
+      width: 100%;
+      height: 200px;
+      background-color: lemonchiffon;
+      -webkit-box-shadow: 10px 10px 5px 0px black;
+      -moz-box-shadow: 10px 10px 5px 0px black;
+      box-shadow: 10px 10px 5px 0px black;
+   }
+
+   .container-3 {
+      width: 50%;
+      border: 1px solid #ccc;
+      background-color: white;
+      padding: 100px;
+      box-sizing: border-box;
+      margin: 25px auto;
+      -webkit-box-shadow: 3px 3px 5px 0px black;
+      -moz-box-shadow: 3px 3px 5px 0px black;
+      box-shadow: 3px 3px 5px 0px black;
+   }
+
+   .container-3  h1{
+      width: 100%;
+      text-align: center;
+      color: navy;
+      letter-spacing: 10px;
+   }
+
+
+
 
