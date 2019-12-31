@@ -1,0 +1,38 @@
+body {
+   margin: 0;
+   padding: 25px:
+   }
+
+
+   .container-1 {
+      width: 100%;
+      border: 5px solid black;
+      padding: 10px;
+      box-sizing: border-box;
+   }
+
+   .square-box-1 {
+      height: 150px;
+      width: 50px;
+      background-color: blueviolet;
+      display: inline-block;
+   }
+
+   .square-box-2 {
+      height: 200px;
+      width: 400px;
+      display: inline-block;
+      background-color: forestgreen;
+      margin: 0 50px;
+   }
+
+   .cricle {
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      background-color: skyblue;
+      display: inline-block;
+   }
+
+   
+
